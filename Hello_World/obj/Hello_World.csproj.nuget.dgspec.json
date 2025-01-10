@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\COMPUTER\\Lab06-CSharp-Strings\\Hello_World\\Hello_World.csproj": {}
+    "D:\\oop2567\\Lab06-CSharp-Strings\\Hello_World\\Hello_World.csproj": {}
   },
   "projects": {
-    "C:\\Users\\COMPUTER\\Lab06-CSharp-Strings\\Hello_World\\Hello_World.csproj": {
+    "D:\\oop2567\\Lab06-CSharp-Strings\\Hello_World\\Hello_World.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\COMPUTER\\Lab06-CSharp-Strings\\Hello_World\\Hello_World.csproj",
+        "projectUniqueName": "D:\\oop2567\\Lab06-CSharp-Strings\\Hello_World\\Hello_World.csproj",
         "projectName": "Hello_World",
-        "projectPath": "C:\\Users\\COMPUTER\\Lab06-CSharp-Strings\\Hello_World\\Hello_World.csproj",
+        "projectPath": "D:\\oop2567\\Lab06-CSharp-Strings\\Hello_World\\Hello_World.csproj",
         "packagesPath": "C:\\Users\\COMPUTER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\COMPUTER\\Lab06-CSharp-Strings\\Hello_World\\obj\\",
+        "outputPath": "D:\\oop2567\\Lab06-CSharp-Strings\\Hello_World\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
